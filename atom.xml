@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Hector Jiang&#39;s Blog</title>
+  
+  
+  <link href="http://example.com/atom.xml" rel="self"/>
+  
+  <link href="http://example.com/"/>
+  <updated>2021-10-18T13:06:53.366Z</updated>
+  <id>http://example.com/</id>
+  
+  <author>
+    <name>Hector Jiang</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title></title>
+    <link href="http://example.com/2021/10/18/Math%20basic/"/>
+    <id>http://example.com/2021/10/18/Math%20basic/</id>
+    <published>2021-10-18T13:08:26.766Z</published>
+    <updated>2021-10-18T13:06:53.366Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="书籍"><a href="#书籍" class="headerlink" title="书籍"></a>书籍</h1><h1 id="线性代数"><a href="#线性代数" class="headerlink" title="线性代数"></a>线性代数</h1><h2 id="1-引言"><a href="#1-引言" class="headerlink" title="1.引言"></a>1.引言</h2><h2 id="2-向量空间"><a href="#2-向量空间" class="headerlink" title="2.向量空间"></a>2.向量空间</h2><h2 id="3-矩阵函数"><a href="#3-矩阵函数" class="headerlink" title="3.矩阵函数"></a>3.矩阵函数</h2><h2 id="4-矩阵的秩"><a href="#4-矩阵的秩" class="headerlink" title="4.矩阵的秩"></a>4.矩阵的秩</h2><h2 id="5-线性方程组的解"><a href="#5-线性方程组的解" class="headerlink" title="5.线性方程组的解"></a>5.线性方程组的解</h2><h2 id="6-行列式"><a href="#6-行列式" class="headerlink" title="6.行列式"></a>6.行列式</h2><h2 id="7-相似矩阵与二次型"><a href="#7-相似矩阵与二次型" class="headerlink" title="7.相似矩阵与二次型"></a>7.相似矩阵与二次型</h2><h1 id="高等数学"><a href="#高等数学" class="headerlink" title="高等数学"></a>高等数学</h1><h2 id="1-引言-1"><a href="#1-引言-1" class="headerlink" title="1.引言"></a>1.引言</h2><h2 id="2-极限与连续"><a href="#2-极限与连续" class="headerlink" title="2.极限与连续"></a>2.极限与连续</h2><h2 id="3-微分与导数"><a href="#3-微分与导数" class="headerlink" title="3.微分与导数"></a>3.微分与导数</h2><h2 id="4-微分中值定理与导数的应用"><a href="#4-微分中值定理与导数的应用" class="headerlink" title="4.微分中值定理与导数的应用"></a>4.微分中值定理与导数的应用</h2><h2 id="5-积分"><a href="#5-积分" class="headerlink" title="5.积分"></a>5.积分</h2><h2 id="6-积分应用"><a href="#6-积分应用" class="headerlink" title="6.积分应用"></a>6.积分应用</h2><h2 id="7-微分方程"><a href="#7-微分方程" class="headerlink" title="7.微分方程"></a>7.微分方程</h2><h2 id="8-向量代数与空间解析集合"><a href="#8-向量代数与空间解析集合" class="headerlink" title="8.向量代数与空间解析集合"></a>8.向量代数与空间解析集合</h2><h2 id="9-多元函数微分法及其应用"><a href="#9-多元函数微分法及其应用" class="headerlink" title="9.多元函数微分法及其应用"></a>9.多元函数微分法及其应用</h2><h2 id="10-重积分"><a href="#10-重积分" class="headerlink" title="10.重积分"></a>10.重积分</h2><h2 id="11-曲线积分与曲面积分"><a href="#11-曲线积分与曲面积分" class="headerlink" title="11.曲线积分与曲面积分"></a>11.曲线积分与曲面积分</h2><h2 id="12-无穷级数"><a href="#12-无穷级数" class="headerlink" title="12.无穷级数"></a>12.无穷级数</h2><h1 id="概率论与数理统计"><a href="#概率论与数理统计" class="headerlink" title="概率论与数理统计"></a>概率论与数理统计</h1><h2 id="1-概率论的基本概念"><a href="#1-概率论的基本概念" class="headerlink" title="1.概率论的基本概念"></a>1.概率论的基本概念</h2><h2 id="2-随机变量及其分布"><a href="#2-随机变量及其分布" class="headerlink" title="2.随机变量及其分布"></a>2.随机变量及其分布</h2><h2 id="3-多维随机变量及其分布"><a href="#3-多维随机变量及其分布" class="headerlink" title="3.多维随机变量及其分布"></a>3.多维随机变量及其分布</h2><h2 id="4-随机变量的数字特征"><a href="#4-随机变量的数字特征" class="headerlink" title="4.随机变量的数字特征"></a>4.随机变量的数字特征</h2><h2 id="5-大数定律及中心极限定理"><a href="#5-大数定律及中心极限定理" class="headerlink" title="5.大数定律及中心极限定理"></a>5.大数定律及中心极限定理</h2><h2 id="6-数理统计的基本概念"><a href="#6-数理统计的基本概念" class="headerlink" title="6.数理统计的基本概念"></a>6.数理统计的基本概念</h2><h2 id="7-参数估计"><a href="#7-参数估计" class="headerlink" title="7.参数估计"></a>7.参数估计</h2><h2 id="8-假设检验"><a href="#8-假设检验" class="headerlink" title="8.假设检验"></a>8.假设检验</h2><h1 id="解析集合"><a href="#解析集合" class="headerlink" title="解析集合"></a>解析集合</h1><h1 id="矩阵运算"><a href="#矩阵运算" class="headerlink" title="矩阵运算"></a>矩阵运算</h1><h1 id="数学分析"><a href="#数学分析" class="headerlink" title="数学分析"></a>数学分析</h1><h1 id="微积分"><a href="#微积分" class="headerlink" title="微积分"></a>微积分</h1><h1 id="概率论"><a href="#概率论" class="headerlink" title="概率论"></a>概率论</h1><h1 id="数理统计"><a href="#数理统计" class="headerlink" title="数理统计"></a>数理统计</h1><h1 id="最优化理论"><a href="#最优化理论" class="headerlink" title="最优化理论"></a>最优化理论</h1><h1 id="信息论"><a href="#信息论" class="headerlink" title="信息论"></a>信息论</h1><h1 id="形式逻辑"><a href="#形式逻辑" class="headerlink" title="形式逻辑"></a>形式逻辑</h1><h1 id="多元统计"><a href="#多元统计" class="headerlink" title="多元统计"></a>多元统计</h1><h1 id="时间序列分析"><a href="#时间序列分析" class="headerlink" title="时间序列分析"></a>时间序列分析</h1>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;书籍&quot;&gt;&lt;a href=&quot;#书籍&quot; class=&quot;headerlink&quot; title=&quot;书籍&quot;&gt;&lt;/a&gt;书籍&lt;/h1&gt;&lt;h1 id=&quot;线性代数&quot;&gt;&lt;a href=&quot;#线性代数&quot; class=&quot;headerlink&quot; title=&quot;线性代数&quot;&gt;&lt;/a&gt;线性代数&lt;/h</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://example.com/2013/07/13/hello-world/"/>
+    <id>http://example.com/2013/07/13/hello-world/</id>
+    <published>2013-07-13T12:46:25.000Z</published>
+    <updated>2021-10-18T13:09:29.509Z</updated>
+    
+    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt; for</summary>
+      
+    
+    
+    
+    <category term="Diary" scheme="http://example.com/categories/Diary/"/>
+    
+    
+    <category term="PS3" scheme="http://example.com/tags/PS3/"/>
+    
+    <category term="Games" scheme="http://example.com/tags/Games/"/>
+    
+  </entry>
+  
+</feed>
